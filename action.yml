@@ -1,4 +1,4 @@
-name: "Action Check Typescript errors"
+name: "typescript-checker"
 description: "Check tsc errors and compare errors wih base branch"
 author: "Abbas Srour"
 icon: activity
