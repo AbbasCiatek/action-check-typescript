@@ -1,5 +1,5 @@
 {
-  "name": "action-check-typescript",
+  "name": "typescript-checker",
   "version": "0.0.0",
   "private": true,
   "description": "TypeScript template action",
